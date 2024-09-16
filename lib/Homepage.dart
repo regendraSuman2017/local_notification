@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
                   id: 1,
                   body: "Welcome",
                   payload: "now",
-                  title: "New Notificatio",
+                  title: "New Notification",
                 );
               });
             },
