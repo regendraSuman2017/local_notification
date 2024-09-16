@@ -24,7 +24,7 @@ class HomePage extends StatelessWidget {
                 );
               });
             },
-            label: Text("Show Notification"),
+            label: const Text("Show Notification"),
             icon: Icon(Icons.notifications),
           )
         ],
